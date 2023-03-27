@@ -1,6 +1,6 @@
 ## Sahil Patel ## 
 
-**Aeronautical Engineering** 
+**Aeronautical Engineering** :airplane:
 
 **MITE'26**
 ___
