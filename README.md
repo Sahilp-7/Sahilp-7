@@ -1,16 +1,27 @@
-### Hi there 👋
+## Sahil Patel ## 
 
-<!--
-**Sahilp-7/Sahilp-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aeronautical Engineering**
+___
 
-Here are some ideas to get you started:
+## Contacts ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Mail](https://sahilp04a@gmail.com)
+
+* [LinkedIn](https://www.linkedin.com/in/sahil-patel-76683b249)
+
+---
+
+## Skills ## 
+ 
+* C programming
+
+* Markdown
+
+* Video editing
+
+___
+
+
+
+
+
