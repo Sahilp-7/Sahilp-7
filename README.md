@@ -11,7 +11,7 @@ ___
 
 * [LinkedIn](https://www.linkedin.com/in/sahil-patel-76683b249)
 
----
+* [Instagram](https://instagram.com/sahilp_04?igshid=ZDdkNTZiNTM=)
 
 ## Skills ## 
  
